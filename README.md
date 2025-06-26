@@ -3,7 +3,6 @@
 ## Project Overview
 
 ## Raw Dataset Link
-[Link Dataset]()
 
 ## Insight & Findings
 
