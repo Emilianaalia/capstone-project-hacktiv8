@@ -1,2 +1,10 @@
-# capstone-project-hacktiv8
-Capstone project untuk Hacktiv8 
+# capstone-project-hacktiv8 :
+
+## Project Overview
+
+## Raw Dataset Link
+[Link Dataset]()
+
+## Insight & Findings
+
+## AI Support Explanation
