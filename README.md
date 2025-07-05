@@ -9,7 +9,7 @@ It explores factors like age, gender, stress levels, lifestyle habits, and acade
 ### Why This Project Matters
 Mental health issues among students are increasingly common but often overlooked. Academic pressure, lifestyle habits, and lack of mental health 
 awareness can silently affect students' well-being, performance, and overall life quality. Despite growing awareness, many students still don't seek help or access 
-available support services. This project aims to highlight these patterns through data — so institutions can respond with better, more targeted support.
+available support services. This project aims to highlight these patterns through data, so institutions can respond with better, more targeted support.
 
 ### Project Goals
 - To explore and understand key factors influencing student mental health, such as stress levels, academic pressure, lifestyle habits, and access to support services.
